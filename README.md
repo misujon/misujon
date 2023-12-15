@@ -1,7 +1,5 @@
 ![M.i's Contact Info](https://github.com/misujon/misujon/blob/main/PHP.jpg?raw=true)
 
-# Monirul Islam - Full Stack Web Developer
-
 ### Summary:
 I am a proficient and creative Full Stack Web Developer with a deep understanding of various programming languages and frameworks. My primary objective is to maintain top-quality work and deliver exceptional services to businesses and clients. I excel in troubleshooting, problem-solving, and collaborating with teams to exceed customer expectations while meeting strict deadlines and budget constraints.
 
